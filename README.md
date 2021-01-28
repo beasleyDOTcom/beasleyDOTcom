@@ -3,7 +3,7 @@
   <a target="_blank" href="https://www.codewars.com/users/beasleyDOTcom"><img src="https://www.codewars.com/users/beasleyDOTcom/badges/large" alt="codewars badge" /></a>
   <a href="https://leetcode.com/beasleydotcom/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
   <a href="https://www.hackerrank.com/beasleyDOTcom/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
-
+</p>
 
 
 
@@ -20,16 +20,13 @@
  
  
  
- <h2 align="center">Frameworks / Tools</h2>
+<h2 align="center">Languages && Frameworks && Tools</h2>
+<br>
 <p align="center">
- 
- <a href = "#Lang"><img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"></a>
-  <a href = "#Lang"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
-  <a href = "#Lang"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a> 
-<!-- </p> -->
-
-
-  <a href="#Lang">
+  <a href="#Lang">  
+    <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f">
+    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
@@ -37,17 +34,6 @@
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
     <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-
-<!--     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">   -->
-<!--     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/> -->
-<!--     <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none"> -->
-  </a>
-</p>
-
-<!-- <h2 align="center">Tools</h2> -->
-<p align="center">
-  <a href="#Lang">  
     <br>
     <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?style=flat&logo=amazon&logoColor=FEBD69">
@@ -55,16 +41,12 @@
     <img src="https://img.shields.io/badge/SQL-f29111?style=flat&logo=SQL&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&logo=GraphQL&logoColor=e535ab">
     <img src="https://img.shields.io/badge/Postgres-585858.svg?style=flat&logo=postgresql&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/Postman-ffffff.svg?style=flat&logo=postman&logoColor=EF5B25">
-    <!-- <img src="https://img.shields.io/badge/Figma-848484.svg?style=flat&logo=figma&logoColor=00c8ff"> -->
-    
-    
+    <img src="https://img.shields.io/badge/Postman-ffffff.svg?style=flat&logo=postman&logoColor=EF5B25">  
   </a>
  </p>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beasleydotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
  </p> 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p> -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beasleydotcom"alt="beasleydotcom"/></a>
 </p>
