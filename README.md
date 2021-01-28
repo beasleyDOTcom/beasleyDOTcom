@@ -1,6 +1,6 @@
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=beasleydotcom&show_icons=true&theme=onedark"><br>
-  <a target="_blank" href="https://www.codewars.com/users/beasleyDOTcom"><img src="https://www.codewars.com/users/beasleyDOTcom/badges/large" alt="codewars badge" /></a> <br>
+  <a target="_blank" href="https://www.codewars.com/users/beasleyDOTcom"><img src="https://www.codewars.com/users/beasleyDOTcom/badges/large" alt="codewars badge" /></a>
   <a href="https://leetcode.com/beasleydotcom/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
   <a href="https://www.hackerrank.com/beasleyDOTcom/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
 
