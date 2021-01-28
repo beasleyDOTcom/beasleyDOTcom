@@ -25,9 +25,9 @@
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-    <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">  
+<!--     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">   -->
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
-    <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
+<!--     <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none"> -->
   </a>
 </p>
 
