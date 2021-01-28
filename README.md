@@ -24,32 +24,30 @@
  
  <a href = "#Lang"><img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"></a>
   <a href = "#Lang"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></a>
-  <a href = "#Lang"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a>   
+  <a href = "#Lang"><img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></a> 
 </p>
 
-<h2 align="center">Frameworks</h2>
+<h2 align="center">Frameworks / Tools</h2>
 <p align="center">
   <a href="#Lang">
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
     <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
-    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+    <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+
 <!--     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">   -->
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
+<!--     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/> -->
 <!--     <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none"> -->
   </a>
 </p>
 
-<h2 align="center">Tools</h2>
+<!-- <h2 align="center">Tools</h2> -->
 <p align="center">
-  <a href="#Lang">
-    <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-    <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-    <img src="http://img.shields.io/badge/-VS%20Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white">
-<!--     <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90"> -->
-<!--     <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Android Studio-073042.svg?style=flat&logo=android&logoColor=3ddc84"> -->
-    
+  <a href="#Lang">  
     <br>
     <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/AWS%20-232F3E.svg?style=flat&logo=amazon&logoColor=FEBD69">
@@ -71,7 +69,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beasleydotcom"alt="beasleydotcom"/></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=beasleydotcom&label=Profile%20views&color=0e75b6&style=flat" alt="beasleydotcom"/></p>
-
+<!--     <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90"> -->
+<!--     <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Android Studio-073042.svg?style=flat&logo=android&logoColor=3ddc84"> -->
 <!-- <h2 align="center">Projects</h2> -->
 
 <!-- Scraps------------------------------------>
