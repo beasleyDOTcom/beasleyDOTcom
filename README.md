@@ -2,7 +2,8 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=beasleydotcom&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/beasleyDOTcom"><img src="https://www.codewars.com/users/beasleyDOTcom/badges/large" alt="codewars badge" /></a>
   <a href="https://leetcode.com/beasleydotcom/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
-  <a href="https://www.hackerrank.com/beasleyDOTcom/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
+<!--  <a href="https://www.hackerrank.com/beasleyDOTcom/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
+-->
 </p>
 
 
@@ -47,9 +48,11 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beasleydotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
  </p> 
+<!--
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beasleydotcom"alt="beasleydotcom"/></a>
 </p>
+-->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=beasleydotcom&label=Profile%20views&color=0e75b6&style=flat" alt="beasleydotcom"/></p>
 <!--     <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90"> -->
 <!--     <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
