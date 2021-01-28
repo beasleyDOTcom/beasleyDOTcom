@@ -48,11 +48,11 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beasleydotcom&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
  </p> 
-<!--
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beasleydotcom"alt="beasleydotcom"/></a>
 </p>
--->
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=beasleydotcom&label=Profile%20views&color=0e75b6&style=flat" alt="beasleydotcom"/></p>
 <!--     <img src="http://img.shields.io/badge/-Visual%20Studio-e2daf1?style=flat&logo=visual%20studio&logoColor=5d2b90"> -->
 <!--     <img src="http://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=jetbrains&logoColor=white"> 
