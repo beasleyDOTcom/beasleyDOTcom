@@ -25,7 +25,7 @@
 <br>
 <p align="center">
   <a href="#Lang">  
-    <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f">
+    <img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=red">
     <a href = "#Lang"><img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333"></a>
     <img src = "https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&amp;logoColor=white"/>
     <img src = "https://img.shields.io/badge/Django-092E20?style=flat&logo=django&amp;logoColor=white"/>
