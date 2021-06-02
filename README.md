@@ -3,7 +3,7 @@
   2. I work on code challenges everyday --> I love solving problems! Check out my last pull request in my data-strucures-and-algorithms repository to see what I've been working on most recently.<br> 
   3. I've been working on the <a href="https://beasleydotcom.com">website for my music</a> (I get a lot of my sense of purpose and fullfillment in life from sharing my music)
   <br>
-  4. While updating my music website I decided I wanted to keep track of all of the past shows I've played. The facebook events API doesn't allow regular developers to retrieve event data by artist unless you are a big org (like bandsintown etc). So I developed a web scraper that utilizes puppeteer to take in a facebook username and returns an array of event objects containing the details of each show.
+  4. While updating my music website I decided I wanted to keep track of all of the past shows I've played. The facebook events API doesn't allow regular developers to retrieve event data by artist unless you are a big org (like bandsintown etc). So I developed a <a href = "https://github.com/beasleyDOTcom/facebookEventsScraper">web scraper</a> that utilizes puppeteer to take in a facebook username and returns an array of event objects containing the details of each show.
  </p><br>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=beasleydotcom&show_icons=true&theme=onedark"><br>
