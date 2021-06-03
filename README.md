@@ -2,20 +2,18 @@
 <h4 align="center"> <br> What have I been working on that I'm super excited about?</h4>
   <ol>
     <li>
-      I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash <a href="https://github.com/beasleyDOTcom/scripts/blob/main/startJavaScriptCodeChallenge.sh">scripts</a> have been super helpful!(and fun!)
+      I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash <a href="https://github.com/beasleyDOTcom/scripts/blob/main/startJavaScriptCodeChallenge.sh">scripts</a> have been super helpful and fun!
     </li>
     <li>
-      I work on code challenges everyday --> I love solving problems! Check out my last pull request in my data-strucures-and-algorithms repository to see what I've been working on most recently.
+      I work on code challenges everyday --> I love solving problems!<br>Check out my last pull request in my <a href="https://github.com/beasleyDOTcom/data-structures-and-algorithms/issues?q=">data-strucures-and-algorithms repository<a/> to see what I've been working on most recently.
     </li>
     <li>
       I've been working on the <a href="https://beasleydotcom.com">website for my music</a> (I get a lot of my sense of purpose and fullfillment in life from sharing my music)
     </li>
     <li>
-      While updating my music website I decided I wanted to keep track of all of the past shows I've played. The facebook events API doesn't allow regular developers to retrieve event data by artist unless you are a big org (like bandsintown etc). So I developed a <a href = "https://github.com/beasleyDOTcom/facebookEventsScraper">web scraper</a> that utilizes puppeteer to take in a facebook username and returns an array of event objects containing the details of each show.
+      While updating my music website I decided I wanted to show a history of all the past shows I've played. The facebook events API doesn't allow regular developers to retrieve event data by artist unless you are a big org (like bandsintown etc). So I developed a <a href = "https://github.com/beasleyDOTcom/facebookEventsScraper">web scraper</a> that utilizes puppeteer to take in a facebook username and returns an array of event objects containing the details of each show.
     </li>
-
   </ol>
- 
 
 <br>
 <p align="center">
