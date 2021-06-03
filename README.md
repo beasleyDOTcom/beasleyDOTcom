@@ -2,7 +2,7 @@
 <h4 align="center"> <br> What have I been working on that I'm super excited about?</h4>
   <ol>
     <li>
-      I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash scripts have been super helpful!(and fun!)
+      I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash <a href="https://github.com/beasleyDOTcom/scripts/blob/main/startJavaScriptCodeChallenge.sh">scripts</a> have been super helpful!(and fun!)
     </li>
     <li>
       I work on code challenges everyday --> I love solving problems! Check out my last pull request in my data-strucures-and-algorithms repository to see what I've been working on most recently.
