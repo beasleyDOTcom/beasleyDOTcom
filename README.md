@@ -5,6 +5,8 @@
       I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash <a href="https://github.com/beasleyDOTcom/scripts/blob/main/startJavaScriptCodeChallenge.sh">scripts</a> have been super helpful and fun!
     </li>
     <li>
+      I've been learning Python and just finished a tic-tac-toe game that you can play <a href="https://replit.com/@beasleydotcom/tictactoe">here</a>
+    <li>
       I work on code challenges everyday --> I love solving problems!<br>Check out my last pull request in my <a href="https://github.com/beasleyDOTcom/data-structures-and-algorithms/issues?q=">data-strucures-and-algorithms repository<a/> to see what I've been working on most recently.
     </li>
     <li>
