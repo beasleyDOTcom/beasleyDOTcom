@@ -1,5 +1,5 @@
-<h2 align="center">Hi there!</h2>
-<p align="center">Thanks for checking out my GitHub! <br> What have I been working on that I'm super excited about? <br>
+<h2 align="center">Hi there! Thanks for checking out my GitHub!</h2>
+<h4 align="center"> <br> What have I been working on that I'm super excited about?</h4>
   <ol>
     <li>
       I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash scripts have been super helpful!(and fun!)
@@ -17,7 +17,7 @@
   </ol>
  
 
- </p><br>
+<br>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=beasleydotcom&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/beasleyDOTcom"><img src="https://www.codewars.com/users/beasleyDOTcom/badges/large" alt="codewars badge" /></a>
