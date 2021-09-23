@@ -2,6 +2,9 @@
 <h4 align="center"> <br> What have I been working on that I'm super excited about?</h4>
   <ol>
     <li>
+      I've been working on a text based <a href="https://github.com/beasleyDOTcom/twilioNodeGetDraftPick/blob/main/README.md">tool</a> for open mic hosts that allows a host to open a room by texting uniqueRoomCode:open to the service's number which allows participants to enter said room by simply texing the "uniqueRoomCode" to the service. Once all of the participants have entered the room, the host then texts "uniqueRoomCode:close" which then texts each phone number in the room their random number (draft pick of when they get to pick a time slot)
+    </li>
+    <li>
       I've been learning to automate some of my regular tasks by utilizing bash scripts! Paired with an alias, these bash <a href="https://github.com/beasleyDOTcom/scripts/blob/main/startJavaScriptCodeChallenge.sh">scripts</a> have been super helpful and fun!
     </li>
     <li>
